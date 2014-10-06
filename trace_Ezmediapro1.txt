@@ -1,0 +1,27 @@
+ 1  wireless_broadband_router (192.168.1.1)  1.164 ms  1.608 ms  3.376 ms
+ 2  l100.nycmny-vfttp-156.verizon-gni.net (98.113.86.1)  11.711 ms  9.264 ms  14.829 ms
+ 3  g0-1-3-2.nycmny-lcr-21.verizon-gni.net (130.81.187.226)  10.280 ms  12.294 ms  9.687 ms
+ 4  * * *
+ 5  0.ae1.br2.nyc4.alter.net (140.222.229.91)  13.947 ms  11.899 ms  10.736 ms
+
+ 6  204.255.168.114 (204.255.168.114)  11.289 ms  14.144 ms  12.249 ms
+ 7  be2060.ccr21.jfk02.atlas.cogentco.com (154.54.31.9)  12.201 ms
+    be2063.mpd22.jfk02.atlas.cogentco.com (154.54.47.57)  11.176 ms
+    be2062.mpd21.jfk02.atlas.cogentco.com (154.54.7.13)  8.904 ms
+ 8  be2116.ccr41.ord01.atlas.cogentco.com (154.54.7.26)  28.221 ms
+    be2117.ccr42.ord01.atlas.cogentco.com (154.54.7.58)  38.048 ms
+    be2114.ccr41.ord01.atlas.cogentco.com (66.28.4.202)  38.061 ms
+ 9  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  50.045 ms  51.161 ms
+    be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  50.294 ms
+10  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  61.785 ms
+    be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  59.658 ms
+    be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  62.899 ms
+11  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  74.313 ms
+    be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  78.883 ms
+    be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  78.899 ms
+12  38.104.174.198 (38.104.174.198)  81.057 ms  83.707 ms  100.057 ms
+13  ve15.ar05.prov.acedc.net (199.58.196.66)  75.272 ms  77.419 ms  83.962 ms
+14  prv-212-1-1-0.unifiedlayer.com (69.27.175.157)  78.120 ms
+    prv-212-1-1-3.unifiedlayer.com (69.27.175.163)  87.184 ms
+    prv-212-1-1-0.unifiedlayer.com (69.27.175.157)  76.779 ms
+15  50-87-36-202.unifiedlayer.com (50.87.36.202)  77.111 ms  79.226 ms  77.874 ms
